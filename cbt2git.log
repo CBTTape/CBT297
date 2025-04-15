@@ -1,11 +1,11 @@
-2025-04-15 01:16:21.523300 - Received CBT.V508.FILE297.PDS from FILE297.XMI 
-2025-04-15 01:16:21.524614 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:16:21.524793 - Found $$CHANGE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$CHANGE
-2025-04-15 01:16:21.524961 - Found $$DOC.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$DOC
-2025-04-15 01:16:21.525835 - Found $COMMON.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$COMMON
-2025-04-15 01:16:21.526014 - Found @FILE297.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/@FILE297
-2025-04-15 01:16:21.526653 - Found GRS.jcl (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS
-2025-04-15 01:16:21.526831 - Found GRS@PRIM.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS@PRIM
-2025-04-15 01:16:21.526993 - Found GRSMAJ.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSMAJ
-2025-04-15 01:16:21.527148 - Found GRSP002.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP002
-2025-04-15 01:16:21.527303 - Found GRSP003.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP003
+2025-04-15 20:02:59.532312 - Received CBT.V508.FILE297.PDS from FILE297.XMI 
+2025-04-15 20:02:59.533848 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:02:59.534072 - Found $$CHANGE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$CHANGE
+2025-04-15 20:02:59.534308 - Found $$DOC.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$DOC
+2025-04-15 20:02:59.535392 - Found $COMMON.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$COMMON
+2025-04-15 20:02:59.535468 - Found @FILE297.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/@FILE297
+2025-04-15 20:02:59.536279 - Found GRS.jcl (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS
+2025-04-15 20:02:59.536517 - Found GRS@PRIM.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS@PRIM
+2025-04-15 20:02:59.536753 - Found GRSMAJ.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSMAJ
+2025-04-15 20:02:59.537113 - Found GRSP002.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP002
+2025-04-15 20:02:59.537484 - Found GRSP003.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP003
